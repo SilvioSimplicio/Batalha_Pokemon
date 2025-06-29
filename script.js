@@ -30,7 +30,7 @@ function simularBatalha(chefe, desafiante) {
 }
 
 function efeitoVisual() {
-  document.body.style.backgroundColor = "#ffe066";
+  document.body.style.backgroundColor = "black";
   setTimeout(() => {
     document.body.style.backgroundColor = "#f0f4f8";
   }, 300);
