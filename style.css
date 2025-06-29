@@ -9,6 +9,11 @@ header {
   background: linear-gradient(90deg, #1e3c72, #2a5298); 
 }
 
+header img {
+  width: 60px;
+  border-radius: 10px;
+}
+
 body {
   text-align: center;
   background-color: #f0f4f8;
